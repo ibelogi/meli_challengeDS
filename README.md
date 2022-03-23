@@ -9,3 +9,10 @@ este momento no existe una clasificación que permita identificar a aquellos que
 un buen perfil y son relevantes para el negocio. ¿Cómo podrías ayudar al equipo
 comercial a identificar estos sellers?
 
+## Estructura del repositorio
+
+El repositorio se encuentra organizado en notebooks de trabajo
+1. ETL_sellers: contiene la conexión a la API de Mercado Libre y la extracción de los datos.
+2. DataPrep: se crean variables y se agrupan los datos por sellers para continuar el proceso.
+3. EDA: se exploran los datos y se extraen los insights
+4. clasification: se proponen las soluciones de negocio 
