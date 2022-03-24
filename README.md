@@ -22,3 +22,6 @@ En la carpeta data se encuentran los set de datos de items, sellers y el resulta
 
 ## Tablero
 https://ibelogi.github.io/meli_challengeDS/tablero.html
+
+### Comentarios para replicar el proceso
+Al trabajar con los items de Mercado Libre Argentina, se entiende que estos tienen variaciones diarias por bajas de items o modificaciones en el orden de las paginas, por lo tanto para obtener los mismos resultados se debe definir el día en que se extrajeron los datos por primera vez (18-03-2022) de lo contrario los resultados pueden diferir a los realizados en el marco del challenge. 
