@@ -17,5 +17,8 @@ El repositorio se encuentra organizado en notebooks de trabajo
 3. EDA: se exploran los datos y se extraen los insights
 4. clasification: se proponen las soluciones de negocio y se extraen los resultados
 
-### Data
+## Data
 En la carpeta data se encuentran los set de datos de items, sellers y el resultado de la solucion
+
+## Tablero
+https://ibelogi.github.io/meli_challengeDS/tablero.html
